@@ -1,7 +1,7 @@
 # Matnni shiflrash va shifrdan ozod qilish
 
 ## O'rnatish 
-### Nodejs va vuejs o'rnatish kerak 
+### Nodejs va vuejs o'rnatish kerak:
 https://nodejs.org/en/download/current
 
 <code> npm create vue@latest</code>
